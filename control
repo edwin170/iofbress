@@ -1,0 +1,9 @@
+Package: com.edwin.iofbress
+Name: iofbress
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: set a custom resolution on ios
+Maintainer: Edwin
+Author: Edwin
+Section: System
+Tag: role::hacker
